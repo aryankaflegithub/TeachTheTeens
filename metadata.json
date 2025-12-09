@@ -1,0 +1,7 @@
+{
+  "name": "Teach The Teens",
+  "description": "A deep-learning powered math OCR and solver application. Transforms images of math problems into step-by-step LaTeX solutions using advanced AI models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
